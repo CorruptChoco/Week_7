@@ -6,6 +6,7 @@ In this SQL lesson we looked a Pwelett Hackard and the large number of people th
 * There are 50,842 senior staff (Senior Engineer and Senior Staff) soon eligible for retirement and are currently employed by Pwelett Hackard.
 * There are 2 Mangers soon eligible for retirement and are currently employed by Pwelett Hackard.
 * There is 1,549 staff members eligible to be a part of the mentorship program
+![title_chart](https://user-images.githubusercontent.com/96025706/153967506-f2aa04c2-526d-49bb-9594-ccf985c6a6a7.png)
 ## Summary Questions
 ### 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 72,458 roles will need to be filled as old employees begin to retire.
